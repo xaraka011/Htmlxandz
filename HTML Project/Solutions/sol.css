@@ -1,0 +1,203 @@
+.suuiiscribe{
+  background-color: rgb(200, 0, 0);
+  color: white;
+  height: 36px;
+  width: 90px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 7px;
+}
+#buuton{
+  background-color: white;
+  color: rgb(41, 118, 211);
+  border: 2px solid rgb(41, 118, 211);
+  height: 36px;
+  width: 67px;
+  font-size: 17px;
+  border-radius: 2px;
+  margin-right: 7px;
+  cursor: pointer;
+  }
+  #tweet{
+    color: white;
+    background-color: rgba(2, 158, 255, 0.998);
+    border: none;
+    height: 36px;
+    width: 80px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 7px;
+  }
+  h5{
+    color: darkblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(18, 142, 18);
+  }
+  #req{
+    background-color: black;
+    color: white;
+    padding: 12px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s;
+
+  }
+  #req:hover{
+    opacity: 0.7;
+  }
+  #req:active{
+    opacity: 0.5;
+  }
+  .Cart{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    height: 20px;
+    width: 105px;
+    border: none;
+    border-radius: 27px;
+    margin-left: 20px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+  }
+  .Cart:hover{
+    background-color: rgb(51, 171, 0);
+    color: white;
+  
+  }
+  .Cart:active{
+    opacity: 0.6;
+  }
+
+  .sign{
+    color: white;
+    background-color: rgb(46, 164, 79);
+    height: 20px;
+    width: 65px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  .sign:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
+  }
+
+
+  .Get{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    width: 80px;
+    margin-right: 4px;
+    cursor: pointer;
+  }
+  .Get:hover{
+    background-color:  rgb(100, 64, 154);
+  }
+  #down{
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(108, 117, 125);
+    height: 25px;
+    width: 80px;
+    margin-bottom: 25px;
+    align-items: center;
+    margin-left: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+  }
+  #down:hover{
+    background-color: rgb(54, 52, 52);
+    color:white;
+  }
+  
+  .comweb{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 12px 15px;
+    transition: background-color 0.15s,
+    padding 0.15s;
+  }
+  .comweb:hover{
+    background-color: rgb(2, 70, 138);
+    padding: 15px 18px;
+  }
+  .save{
+    background-color: white;
+    color:  rgb(10, 102, 194);
+    margin-left: 8px;
+    padding: 11px 25px 11px 25px;
+    border: 1px solid  rgb(10, 102, 194);
+    border-radius: 10px;
+    transition: background-color 0.15s ,
+    border-width 0.15s;
+  }
+  .save:hover{
+    background-color: rgb(226, 240, 254);
+    border-width: 2px;
+  }
+
+  .buy{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    height: 20px;
+    width: 105px;
+    border: none;
+    border-radius: 27px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  .buy:hover{
+    background-color: rgb(228, 146, 24);
+  }
+  .buy:active{
+    opacity: 0.6;
+  }
+#stock{
+  color: rgb(0,118,0);
+}
+.linki{
+
+ color: rgb(0, 113, 133);
+}
+.linki:hover{
+  color:  rgb(199, 81, 31);
+
+}
+.search{
+  margin: 0 4px 0 4px;
+  font-size: 18px;
+}
+.back-next-button{
+  margin-left: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size:15px
+}
+
+
+.button-barobo{
+  margin-top: 20px;
+  background-color:rgb(14, 112, 210);
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding-top: 8;
+  padding-bottom: 8;
+  transition: padding 0.15s;
+  cursor: pointer;
+}
+.button-barobo:hover{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}

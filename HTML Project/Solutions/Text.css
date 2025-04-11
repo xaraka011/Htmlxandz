@@ -1,0 +1,123 @@
+p {
+  margin-left: 7px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.Tahoma {
+  font-family: tahoma;
+  font-size: 30px;
+  font-weight: bold;
+}
+.ex5b {
+  font-family: arial;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-bottom: 4px;
+}
+.ex5b2 {
+  font-family: arial;
+  font-style: italic;
+  color: red;
+  margin-top: 0;
+  
+}
+
+.title {
+  font-family: verdana;
+  font-size: 19;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-bottom: 2px;
+
+}
+
+.sub-title {
+  font-family: verdana;
+  font-size: 15px;
+  margin-top: 0;
+  color: rgb(96, 96, 96);
+  margin-bottom: 0;
+  margin-bottom: 17px;
+}
+
+.course-descreption {
+  font-family: verdana;
+  margin-top: 0;
+  width:300px;
+  line-height: 22px;
+  margin-bottom: 18px;
+}
+.button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 2px;
+}
+
+.new {
+  color: red;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+.macbook {
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+.pros {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5px;
+
+}
+.date {
+text-align: center;
+}
+.buy {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 4PX 50% 4PX 48%;
+  margin-bottom: 50px;
+}
+
+/* exercise 5g */
+.freecode {
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: arial;
+  margin-bottom: 10px;
+
+}
+.freecodecomp {
+  font-weight: 40;
+  color: rgb(100, 100, 100);
+  font-family: arial;
+}
+.developer {
+font-size: 20px;
+font-family: arial;
+width: 600px;
+margin-bottom: 10px;
+}
+.chp {
+  color: rgb(43, 74, 165);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+
+}
